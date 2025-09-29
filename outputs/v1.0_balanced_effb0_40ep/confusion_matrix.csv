@@ -1,0 +1,6 @@
+,asteroid,black hole,comet,constellation,nebula
+asteroid,71,0,0,0,0
+black hole,0,71,0,0,0
+comet,1,0,70,0,0
+constellation,0,0,0,71,0
+nebula,0,0,1,0,70

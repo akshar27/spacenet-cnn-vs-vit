@@ -1,0 +1,356 @@
+image_path,true,pred,prob_asteroid,prob_black hole,prob_comet,prob_nebula,prob_constellation
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_4_4_SwinIR_large_aug_0.png,asteroid,asteroid,0.99998164,3.2776654e-06,5.6824447e-06,4.6271666e-06,4.733465e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_4_4_SwinIR_large_aug.png,asteroid,asteroid,0.9999833,2.6059577e-06,4.537067e-06,5.275044e-06,4.2332967e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999734,1.4039647e-06,1.7969736e-05,1.6843638e-06,5.4263514e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_2_3_SwinIR_large_aug.png,asteroid,asteroid,0.99926823,4.835415e-06,0.0006925961,7.4427576e-06,2.6949572e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_18_3_SwinIR_large_aug_1.png,asteroid,asteroid,0.99998105,2.5491947e-06,4.8253255e-06,4.277779e-06,7.352609e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_20_aug2_SwinIR_large_aug_0.png,asteroid,asteroid,0.9998832,1.4503211e-05,7.134218e-05,1.498467e-05,1.5999913e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_3_image_9_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999846,2.4653998e-06,4.599099e-06,4.684114e-06,3.5406745e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_12_0_SwinIR_large_aug_0.png,asteroid,asteroid,0.99997973,2.9511668e-06,4.775706e-06,5.595184e-06,6.956907e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_20_4_SwinIR_large_aug_0.png,asteroid,asteroid,0.99997747,3.3242866e-06,2.9951877e-06,5.865031e-06,1.0327059e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_13_aug2_SwinIR_large_aug_0.png,asteroid,asteroid,0.99996006,1.5712551e-06,6.0510506e-06,4.686926e-06,2.7706226e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_2_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.99997234,2.1881178e-06,1.3680459e-05,5.9749314e-06,5.85769e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_8_aug2_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999802,3.3719343e-06,6.300342e-06,6.6300418e-06,3.399697e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_14_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999608,7.3789133e-06,1.6036918e-05,7.822593e-06,7.896926e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_4_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.99998367,2.1919714e-06,5.349727e-06,5.786028e-06,3.0336996e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_3_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9999709,1.5803386e-06,2.2304705e-05,1.8065251e-06,3.4656732e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_13_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.99997497,1.9567449e-06,1.6141947e-05,2.249437e-06,4.7099957e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_6_image_7_aug2_SwinIR_large_aug.png,asteroid,asteroid,0.9999436,2.7201065e-06,2.963499e-05,6.488349e-06,1.7485645e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_12_aug2_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999361,4.525421e-05,1.2394191e-05,4.147387e-06,2.199449e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_18_aug3_SwinIR_large_aug_1.png,asteroid,asteroid,0.9997249,1.5422165e-05,0.00021903281,9.173339e-06,3.1437463e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_6_image_10_aug3_SwinIR_large_aug_0.png,asteroid,asteroid,0.999853,3.0206493e-05,7.3405805e-05,1.760661e-05,2.5705616e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_4_image_9_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999851,3.8610083e-06,4.3411774e-06,3.0586993e-06,3.6596946e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_11_4_SwinIR_large_aug.png,asteroid,asteroid,0.9777895,3.4797653e-05,0.022151425,1.0076216e-05,1.4073354e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_1_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.999977,1.5882456e-06,2.9931762e-06,9.201195e-06,9.189348e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_4_image_9_SwinIR_large_aug_0.png,asteroid,asteroid,0.99998796,2.86476e-06,3.3743183e-06,2.5036497e-06,3.3695785e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_16_2_SwinIR_large_aug_1.png,asteroid,asteroid,0.99991834,1.8924025e-06,6.857593e-05,4.6184628e-06,6.5022587e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_20_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9999776,6.084563e-06,1.0483197e-05,3.4183556e-06,2.4349038e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_7_2_SwinIR_large_aug.png,asteroid,asteroid,0.9807716,1.8269664e-05,0.019073527,7.586393e-05,6.0847677e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_1_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.9998795,2.7263924e-05,8.5077205e-05,3.5534567e-06,4.576609e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_2_2_SwinIR_large_aug_0.png,asteroid,asteroid,0.9996816,8.080376e-06,1.6654607e-05,0.0002689235,2.4760117e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_10_SwinIR_large_aug_0.png,asteroid,asteroid,0.99988365,1.1909343e-05,7.938727e-05,6.6112434e-06,1.8460176e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_2_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.99997973,3.3562637e-06,1.7937667e-06,8.793876e-06,6.3044317e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_18_0_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999832,2.6391863e-06,5.302805e-06,4.1052117e-06,4.8156817e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_14_4_SwinIR_large_aug.png,asteroid,asteroid,0.9999434,6.0406405e-06,7.5462576e-06,3.4072335e-05,8.918136e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_8_1_SwinIR_large_aug.png,asteroid,asteroid,0.99996805,4.835153e-06,3.3883107e-06,1.4948915e-05,8.858198e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_9_3_SwinIR_large_aug.png,asteroid,asteroid,0.9999722,4.161099e-06,4.3028426e-06,1.200212e-05,7.237145e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_14_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.99994814,3.966304e-06,4.0647814e-05,3.0157826e-06,4.1133408e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_9_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999044,7.206259e-05,1.3646175e-05,2.2013537e-06,7.778336e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_9_1_SwinIR_large_aug.png,asteroid,asteroid,0.99998,1.9625556e-06,6.453268e-06,6.6938337e-06,4.868447e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_14_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9999628,3.2595647e-06,1.4086591e-05,6.5312674e-06,1.3344475e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_12_aug2_SwinIR_large_aug.png,asteroid,asteroid,0.99992096,9.159785e-06,6.2970765e-05,4.0085574e-06,3.033897e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_7_aug2_SwinIR_large_aug.png,asteroid,asteroid,0.99904305,0.00011275526,0.0007822215,2.8758062e-05,3.3239096e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_7_aug3_SwinIR_large_aug_1.png,asteroid,asteroid,0.99523073,0.0018199019,0.0026392802,0.0001386485,0.0001714358
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_18_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9998461,1.4189598e-05,0.000112610775,6.1431847e-06,2.0832827e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_18_SwinIR_large_aug_1.png,asteroid,asteroid,0.9998498,2.3866849e-05,0.000101029254,5.269639e-06,2.0066473e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_14_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999548,2.34733e-06,2.8489656e-05,2.6643393e-06,1.1649614e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_12_SwinIR_large_aug_1.png,asteroid,asteroid,0.999969,3.981182e-06,2.070211e-05,3.5904918e-06,2.622467e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_11_SwinIR_large_aug_0.png,asteroid,asteroid,0.99991536,7.612444e-06,5.974845e-05,8.201404e-06,9.116039e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_3_1_SwinIR_large_aug.png,asteroid,asteroid,0.99998486,1.9298477e-06,2.8693069e-06,5.7026523e-06,4.608514e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_10_aug3_SwinIR_large_aug_0.png,asteroid,asteroid,0.99985325,1.5793428e-05,8.8700675e-05,8.731239e-06,3.3534416e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_20_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9999473,5.933682e-06,2.9721254e-05,3.041396e-06,1.4097407e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_1_SwinIR_large_aug.png,asteroid,asteroid,0.999987,6.0635934e-06,2.967747e-06,2.2830216e-06,1.6692845e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_6_1_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999418,5.207484e-06,4.1210125e-05,7.3214355e-06,4.4250332e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_5_image_7_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.9999783,3.5855155e-06,1.1108929e-05,2.8498328e-06,4.12997e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_14_1_SwinIR_large_aug.png,asteroid,asteroid,0.9999825,1.5023586e-06,6.213335e-06,3.899108e-06,5.9070544e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_3_image_9_aug3_SwinIR_large_aug.png,asteroid,asteroid,0.99996865,4.4772373e-06,1.9320805e-05,2.7153956e-06,4.896968e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_5_image_3_aug2_SwinIR_large_aug.png,asteroid,asteroid,0.99994385,2.5581341e-05,1.9474031e-05,7.510865e-06,3.607917e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_2_SwinIR_large_aug.png,asteroid,asteroid,0.6561809,0.0014918366,0.34168446,7.247574e-05,0.0005702149
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_14_4_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999027,3.5870914e-06,1.1310876e-05,7.429292e-05,8.084877e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_9_SwinIR_large_aug.png,asteroid,asteroid,0.9999356,2.3939203e-05,2.5123696e-05,5.4577886e-06,9.740553e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_20_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.99994826,8.645667e-06,3.2783333e-05,5.5731525e-06,4.7575145e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_2_image_11_aug3_SwinIR_large_aug_0.png,asteroid,asteroid,0.9999366,6.3404627e-06,4.5527813e-05,4.62451e-06,6.946537e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_10_4_SwinIR_large_aug.png,asteroid,asteroid,0.99998605,1.5855479e-06,2.6319976e-06,6.4514916e-06,3.295898e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_2_1_SwinIR_large_aug.png,asteroid,asteroid,0.99997175,5.192979e-06,2.9933917e-06,1.4942628e-05,5.1585166e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_4_image_3_aug3_SwinIR_large_aug_1.png,asteroid,asteroid,0.999954,2.0178309e-06,3.8281974e-05,1.8033738e-06,3.9198976e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_8_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.9999521,2.8178485e-05,9.958972e-06,5.2848845e-06,4.389177e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_1_2_SwinIR_large_aug.png,asteroid,asteroid,0.99996376,1.922344e-06,1.4158377e-05,1.24491335e-05,7.6707865e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_3_image_1_aug2_SwinIR_large_aug_1.png,asteroid,asteroid,0.99990606,2.3122928e-05,5.2031e-05,9.90414e-06,8.871243e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/comet_page_5_image_7_SwinIR_large_aug_1.png,asteroid,asteroid,0.99997175,4.8413535e-06,1.9210902e-05,2.553115e-06,1.723887e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_8_3_SwinIR_large_aug_1.png,asteroid,asteroid,0.99998057,4.495389e-06,1.9279298e-06,6.784689e-06,6.241765e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_8_2_SwinIR_large_aug.png,asteroid,asteroid,0.9999727,2.7802562e-06,1.6350372e-05,2.3862895e-06,5.884978e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/asteroid/asteroid_page_1_image_8_aug2_SwinIR_large_aug_0.png,asteroid,asteroid,0.9997845,2.1007525e-05,0.00018282812,6.1399833e-06,5.5201044e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_2_0_SwinIR_large_aug.png,black hole,black hole,4.543768e-06,0.99998665,1.4254102e-06,2.7997614e-06,4.6154973e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_8_2_SwinIR_large_aug.png,black hole,black hole,2.6177934e-06,0.9999887,1.8320375e-06,3.1709847e-06,3.6266244e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_6_SwinIR_large_aug.png,black hole,black hole,1.1167383e-05,0.9998801,7.7343575e-06,9.459968e-05,6.391683e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_17_aug2_SwinIR_large_aug.png,black hole,black hole,3.5502017e-06,0.99992144,2.6227074e-06,6.6731256e-05,5.650851e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_9_SwinIR_large_aug.png,black hole,black hole,2.7001006e-06,0.9999783,2.0739403e-06,9.109356e-06,7.907382e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_14_0_SwinIR_large_aug.png,black hole,black hole,3.167621e-06,0.9999877,1.991212e-06,2.7169729e-06,4.3820687e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_16_SwinIR_large_aug_0.png,black hole,black hole,6.7886444e-06,0.99997497,9.488374e-06,1.9961699e-06,6.7148926e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_18_4_SwinIR_large_aug.png,black hole,black hole,1.2515026e-06,0.9999913,1.4739935e-06,2.3215018e-06,3.670476e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_15_3_SwinIR_large_aug.png,black hole,black hole,4.201592e-06,0.9999846,4.9616133e-06,2.3004566e-06,3.9927195e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_3_1_SwinIR_large_aug.png,black hole,black hole,2.4015383e-06,0.99998915,1.6467028e-06,2.9661178e-06,3.7969075e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_2_SwinIR_large_aug.png,black hole,black hole,1.0048546e-05,0.9998814,3.9009545e-05,5.0256527e-05,1.9253972e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_5_1_SwinIR_large_aug.png,black hole,black hole,7.886617e-06,0.9995596,0.00016148505,1.1377087e-05,0.00025972133
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_8_3_SwinIR_large_aug.png,black hole,black hole,3.134647e-06,0.9999882,1.1523223e-06,5.0727963e-06,2.3974835e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_5_image_14_SwinIR_large_aug.png,black hole,black hole,1.3965923e-05,0.99991703,4.029598e-05,1.4220395e-05,1.4528344e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_12_SwinIR_large_aug_1.png,black hole,black hole,2.5332292e-06,0.99998116,2.999384e-06,5.6198182e-06,7.662278e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_20_aug3_SwinIR_large_aug.png,black hole,black hole,0.00013668352,0.99314004,9.2896094e-05,0.00049586274,0.006134567
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_13_aug2_SwinIR_large_aug.png,black hole,black hole,1.9745646e-06,0.99997306,8.227772e-07,1.2690964e-05,1.147581e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_6_aug2_SwinIR_large_aug.png,black hole,black hole,1.15709e-05,0.9996001,0.00036588698,1.0727348e-05,1.1743738e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_9_4_SwinIR_large_aug.png,black hole,black hole,2.4376882e-06,0.9999876,1.7085717e-06,5.0417484e-06,3.2115192e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_10_2_SwinIR_large_aug.png,black hole,black hole,2.017273e-06,0.99998844,1.6095208e-06,3.4701955e-06,4.4296135e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_7_image_8_0_SwinIR_large_aug.png,black hole,black hole,9.287264e-06,0.9999597,2.2999311e-05,2.8504783e-06,5.1681204e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_3_0_SwinIR_large_aug.png,black hole,black hole,4.332646e-06,0.9999893,1.8789768e-06,2.4495773e-06,2.0495404e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_5_image_19_2_SwinIR_large_aug.png,black hole,black hole,1.4432884e-06,0.99999046,2.0485502e-06,3.1272102e-06,2.9574812e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_7_3_SwinIR_large_aug.png,black hole,black hole,1.071065e-06,0.99998903,3.4749166e-06,1.7151483e-06,4.7600224e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_2_3_SwinIR_large_aug.png,black hole,black hole,3.3480114e-06,0.99998987,1.9255829e-06,1.6088388e-06,3.2848804e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_8_aug2_SwinIR_large_aug_0.png,black hole,black hole,8.649156e-06,0.999977,6.9386538e-06,2.324639e-06,5.028624e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_8_4_SwinIR_large_aug.png,black hole,black hole,1.2811487e-06,0.9998153,0.00014193295,1.4953617e-05,2.6597801e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_1_SwinIR_large_aug.png,black hole,black hole,1.3301158e-05,0.99993587,1.6494778e-05,2.2712293e-05,1.158129e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_12_2_SwinIR_large_aug.png,black hole,black hole,2.7299784e-06,0.9999889,2.2158738e-06,2.9130058e-06,3.2955552e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_8_3_SwinIR_large_aug.png,black hole,black hole,7.621347e-06,0.99998176,4.109366e-06,3.84947e-06,2.7223257e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_3_0_SwinIR_large_aug.png,black hole,black hole,2.0733332e-06,0.9999888,1.6536139e-06,2.7158694e-06,4.7409803e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_19_aug2_SwinIR_large_aug.png,black hole,black hole,1.0707438e-05,0.99916077,6.819375e-06,0.000817747,3.955418e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_8_aug3_SwinIR_large_aug.png,black hole,black hole,1.0425341e-05,0.9999738,7.6970755e-06,2.0657037e-06,6.074226e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_15_3_SwinIR_large_aug.png,black hole,black hole,5.139725e-06,0.99997866,2.8406191e-06,3.1715517e-06,1.0114876e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_1_aug2_SwinIR_large_aug.png,black hole,black hole,6.760996e-06,0.9999651,9.019515e-06,6.7548926e-06,1.229833e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_3_aug2_SwinIR_large_aug.png,black hole,black hole,1.0890474e-05,0.99979764,0.00014734775,3.692994e-05,7.182612e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_18_aug3_SwinIR_large_aug.png,black hole,black hole,1.1148907e-05,0.99990463,2.91352e-05,2.630806e-05,2.8763188e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_14_1_SwinIR_large_aug.png,black hole,black hole,1.7647048e-06,0.9999895,1.6650594e-06,2.8129289e-06,4.2338716e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_5_image_10_aug3_SwinIR_large_aug.png,black hole,black hole,1.7652477e-05,0.9999647,2.348126e-06,4.3046407e-06,1.0943052e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_2_0_SwinIR_large_aug.png,black hole,black hole,2.1456917e-06,0.9999896,2.5041531e-06,1.6697762e-06,4.0770765e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_16_3_SwinIR_large_aug.png,black hole,black hole,2.7330798e-06,0.9999857,5.0419303e-06,3.0114181e-06,3.5966416e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_11_SwinIR_large_aug.png,black hole,black hole,9.804794e-06,0.9999031,5.4099495e-05,6.189311e-06,2.6783391e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_15_1_SwinIR_large_aug.png,black hole,black hole,2.0224961e-06,0.999984,3.918367e-06,1.4201825e-06,8.651378e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_5_3_SwinIR_large_aug.png,black hole,black hole,1.3610015e-06,0.9999839,1.0454694e-06,4.1957996e-06,9.54543e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_15_4_SwinIR_large_aug.png,black hole,black hole,1.723997e-06,0.99998796,2.1800058e-06,3.9101924e-06,4.179761e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_15_SwinIR_large_aug.png,black hole,black hole,3.2158232e-06,0.99998033,6.9308394e-06,3.5121072e-06,6.0194766e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_20_0_SwinIR_large_aug.png,black hole,black hole,1.8934568e-06,0.9999833,1.999494e-06,3.321175e-06,9.476417e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_11_0_SwinIR_large_aug.png,black hole,black hole,4.6195114e-06,0.99993837,1.4626016e-06,5.1025938e-05,4.476713e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_5_image_12_SwinIR_large_aug.png,black hole,black hole,3.8964026e-06,0.99997985,5.9727827e-06,4.3308864e-06,5.970101e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_16_SwinIR_large_aug_1.png,black hole,black hole,7.3854862e-06,0.99996614,1.7060347e-05,1.9901365e-06,7.3294236e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_18_1_SwinIR_large_aug.png,black hole,black hole,2.8310483e-06,0.9999759,1.38187015e-05,2.4180533e-06,5.0870112e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_3_SwinIR_large_aug.png,black hole,black hole,3.0827787e-06,0.99998176,2.6589814e-06,4.8843417e-06,7.605627e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_1_4_SwinIR_large_aug.png,black hole,black hole,5.1672205e-06,0.9999621,2.4875266e-05,2.7508488e-06,5.0941644e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_12_4_SwinIR_large_aug.png,black hole,black hole,3.9091556e-06,0.99998796,1.8286478e-06,2.7014041e-06,3.6112774e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_9_1_SwinIR_large_aug_0.png,black hole,black hole,3.0578208e-06,0.9999839,4.105415e-06,3.2696807e-06,5.7237107e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_17_4_SwinIR_large_aug.png,black hole,black hole,1.8494534e-06,0.9999888,3.1944476e-06,1.9211475e-06,4.2558386e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_20_1_SwinIR_large_aug.png,black hole,black hole,7.474164e-06,0.9999149,4.59215e-05,4.1110748e-06,2.7692928e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_18_4_SwinIR_large_aug.png,black hole,black hole,1.5841752e-06,0.9999896,1.8740972e-06,2.6371654e-06,4.327056e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_15_aug2_SwinIR_large_aug.png,black hole,black hole,2.2540053e-06,0.9999839,4.1520534e-06,4.2445295e-06,5.406696e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_1_1_SwinIR_large_aug.png,black hole,black hole,8.8826775e-05,0.9998815,1.9139645e-05,4.9372293e-06,5.66096e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_4_SwinIR_large_aug.png,black hole,black hole,1.8727676e-05,0.9999584,1.02727e-05,4.477601e-06,8.0867685e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_6_1_SwinIR_large_aug.png,black hole,black hole,3.3138992e-06,0.99997973,2.5154088e-06,1.0513106e-05,3.997954e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_3_3_SwinIR_large_aug.png,black hole,black hole,0.000113218506,0.9997714,9.031428e-06,0.00010107945,5.293674e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_9_1_SwinIR_large_aug.png,black hole,black hole,1.3845907e-06,0.99998915,3.079381e-06,2.8249203e-06,3.5411463e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_4_4_SwinIR_large_aug.png,black hole,black hole,1.550961e-06,0.99999106,2.3160371e-06,1.6173896e-06,3.4000611e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_2_image_19_4_SwinIR_large_aug.png,black hole,black hole,2.2021484e-06,0.9999906,1.551441e-06,2.8841955e-06,2.7825183e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_3_aug3_SwinIR_large_aug.png,black hole,black hole,2.743459e-05,0.9999428,1.9868197e-05,3.0070044e-06,6.8799445e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_1_image_11_aug3_SwinIR_large_aug.png,black hole,black hole,1.13726755e-05,0.999884,7.227751e-05,6.745661e-06,2.5499361e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_3_image_14_aug2_SwinIR_large_aug.png,black hole,black hole,3.38417e-06,0.99993634,5.160095e-06,3.2893644e-05,2.2151924e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_6_image_16_SwinIR_large_aug.png,black hole,black hole,5.6774375e-06,0.99997556,1.0047517e-05,1.9528368e-06,6.7541905e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/black hole/black hole_page_4_image_9_3_SwinIR_large_aug.png,black hole,black hole,2.3495475e-06,0.9999901,2.279691e-06,2.5619843e-06,2.713965e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_11_4_SwinIR_large_aug.png,comet,comet,4.417195e-06,2.2145948e-06,0.99998665,3.7140505e-06,2.930291e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_4_image_5_2_SwinIR_large_aug.png,comet,comet,7.0677097e-06,1.6416446e-06,0.99998367,2.2082677e-06,5.395337e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_6_aug2_SwinIR_large_aug.png,comet,comet,1.9015537e-05,7.90951e-06,0.99996316,2.6256823e-06,7.375744e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_15_aug3_SwinIR_large_aug_1.png,comet,comet,6.147042e-05,7.5667426e-06,0.9999049,5.1281977e-06,2.0860374e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_7_aug3_SwinIR_large_aug.png,comet,comet,3.148564e-05,7.0217725e-06,0.9999478,5.6759313e-06,7.988256e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_3_4_SwinIR_large_aug.png,comet,comet,8.788878e-06,4.219734e-06,0.9999796,1.3934714e-06,5.962907e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_13_3_SwinIR_large_aug_1.png,comet,comet,2.4610328e-05,2.3042694e-06,0.999967,3.3928534e-06,2.6770274e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_20_0_SwinIR_large_aug.png,comet,comet,4.110498e-06,2.4924418e-06,0.9999845,4.3594455e-06,4.5858064e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_18_aug3_SwinIR_large_aug.png,comet,comet,6.3699636e-06,3.1712414e-06,0.99998474,3.8293906e-06,1.8290606e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_4_4_SwinIR_large_aug.png,comet,comet,5.4655475e-06,3.7832533e-06,0.99998283,5.348248e-06,2.544592e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_18_aug3_SwinIR_large_aug.png,comet,comet,1.8036415e-05,9.42094e-06,0.99996364,5.8223286e-06,3.0419621e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_5_3_SwinIR_large_aug.png,comet,comet,0.00037398853,6.2225577e-06,0.9996062,1.062369e-05,3.0614442e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_6_4_SwinIR_large_aug_1.png,comet,comet,1.40069815e-05,3.1065636e-06,0.9999696,2.4115575e-06,1.0908242e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_1_2_SwinIR_large_aug_0.png,comet,comet,5.710789e-06,2.765832e-06,0.9999763,2.93651e-06,1.2263309e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_1_SwinIR_large_aug_0.png,comet,comet,6.670031e-05,0.00070900895,0.99918514,2.9504321e-05,9.63664e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_19_2_SwinIR_large_aug.png,comet,comet,9.189165e-06,2.3773123e-06,0.999982,2.0665834e-06,4.355861e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_19_1_SwinIR_large_aug.png,comet,comet,1.1806116e-05,9.307025e-06,0.99996805,7.090993e-06,3.6752697e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_6_image_5_3_SwinIR_large_aug.png,comet,comet,8.8727844e-05,3.6516406e-06,0.99990106,2.254154e-06,4.2896677e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_9_0_SwinIR_large_aug.png,comet,comet,4.983819e-06,1.8623954e-06,0.9999889,2.750175e-06,1.504542e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_18_0_SwinIR_large_aug.png,comet,comet,1.122733e-05,2.7676763e-06,0.99998,3.2537475e-06,2.7492329e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_6_2_SwinIR_large_aug_0.png,comet,comet,1.2840963e-05,2.5758357e-06,0.9999776,1.1446159e-06,5.856626e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_1_2_SwinIR_large_aug.png,comet,comet,1.8744004e-05,1.1000552e-05,0.99996495,1.886143e-06,3.372436e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_10_SwinIR_large_aug.png,comet,comet,1.0757856e-05,1.8338618e-05,0.99995935,5.9617287e-06,5.5651467e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_18_4_SwinIR_large_aug.png,comet,comet,2.3161723e-05,3.100704e-06,0.9999641,4.8766174e-06,4.6802047e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_10_3_SwinIR_large_aug.png,comet,comet,3.872681e-06,4.3146724e-06,0.99998736,2.6035584e-06,1.8588897e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_7_3_SwinIR_large_aug.png,comet,comet,3.5610617e-05,3.7579055e-06,0.9999474,7.024114e-06,6.2077747e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_1_3_SwinIR_large_aug.png,comet,comet,1.9507273e-05,3.2456392e-06,0.9999615,9.485169e-06,6.2031163e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_3_SwinIR_large_aug.png,comet,comet,9.448345e-05,2.7604303e-06,0.9998876,8.505692e-06,6.547302e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_7_aug3_SwinIR_large_aug.png,comet,comet,2.3346885e-05,1.388728e-05,0.9999502,3.3898211e-06,9.214005e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_20_2_SwinIR_large_aug.png,comet,comet,8.822207e-05,1.8093699e-05,0.99980444,2.2899425e-05,6.63654e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_14_1_SwinIR_large_aug_1.png,comet,comet,9.935737e-05,5.2886967e-06,0.99988544,4.366899e-06,5.5249807e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_10_aug3_SwinIR_large_aug_1.png,comet,comet,2.045819e-05,2.0591842e-05,0.99994993,5.427295e-06,3.615058e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_6_2_SwinIR_large_aug.png,comet,comet,5.451135e-06,6.8532554e-06,0.9999813,4.1007274e-06,2.268307e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_12_4_SwinIR_large_aug.png,comet,comet,0.00013689557,3.0368478e-06,0.9998555,2.6088992e-06,1.9817955e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_9_1_SwinIR_large_aug.png,comet,comet,8.605922e-05,1.6326227e-05,0.99981374,4.498303e-05,3.9000137e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_6_image_5_4_SwinIR_large_aug.png,comet,comet,0.0003499634,2.050307e-05,0.99959403,2.9860112e-05,5.605393e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_4_image_5_0_SwinIR_large_aug_0.png,comet,comet,9.418251e-06,4.5829065e-06,0.99997854,5.5151136e-06,1.9640659e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_11_1_SwinIR_large_aug.png,comet,comet,6.1495164e-05,1.9255535e-06,0.9999325,1.3355713e-06,2.7655476e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_6_3_SwinIR_large_aug.png,comet,comet,0.00020727928,8.745888e-06,0.9997758,5.7958646e-06,2.3044552e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_13_2_SwinIR_large_aug_1.png,comet,comet,4.653975e-06,4.2922206e-06,0.9999783,8.60868e-06,4.1230514e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_20_SwinIR_large_aug_0.png,comet,comet,3.7227583e-05,1.4634858e-06,0.99993896,5.9885597e-06,1.6327833e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_17_0_SwinIR_large_aug.png,comet,comet,1.982241e-05,1.0850059e-06,0.999974,2.2519291e-06,2.845131e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_13_2_SwinIR_large_aug_0.png,comet,comet,5.677521e-06,4.464436e-06,0.99997795,7.415137e-06,4.5077495e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_8_1_SwinIR_large_aug_0.png,comet,comet,4.2846086e-06,5.4562297e-06,0.9999808,8.591134e-06,8.63379e-07
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_11_4_SwinIR_large_aug_0.png,comet,comet,6.135367e-06,2.1816136e-06,0.9999889,1.068126e-06,1.7386457e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_13_4_SwinIR_large_aug.png,comet,comet,6.558688e-06,2.1757226e-06,0.9999858,3.1019601e-06,2.4242374e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_18_4_SwinIR_large_aug.png,comet,asteroid,0.9995617,7.0633737e-06,0.0003785283,4.727747e-06,4.7953687e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_10_aug3_SwinIR_large_aug.png,comet,comet,5.291808e-05,1.0124048e-05,0.99990845,1.931572e-05,9.142426e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_19_3_SwinIR_large_aug.png,comet,comet,1.620248e-05,5.6734507e-06,0.99997306,1.7731139e-06,3.3924114e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_4_3_SwinIR_large_aug_0.png,comet,comet,4.8540547e-05,4.6847895e-06,0.9999391,4.1186613e-06,3.551839e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_6_0_SwinIR_large_aug_1.png,comet,comet,0.3354095,0.00023467744,0.66422606,2.8822065e-05,0.00010094698
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_18_4_SwinIR_large_aug_0.png,comet,comet,3.587227e-06,3.7380635e-06,0.99998915,2.1447293e-06,1.4304715e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_6_SwinIR_large_aug.png,comet,comet,0.0001481731,1.8611969e-05,0.9998091,1.45422155e-05,9.651509e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_19_4_SwinIR_large_aug.png,comet,comet,3.4937127e-06,2.5400725e-06,0.9999895,2.276854e-06,2.2427287e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_8_0_SwinIR_large_aug.png,comet,comet,4.8457837e-06,1.5723662e-06,0.9999851,1.4605931e-06,7.0415954e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/asteroid_page_2_image_18_3_SwinIR_large_aug.png,comet,comet,3.182605e-05,1.7174801e-06,0.9999496,3.843561e-06,1.2978823e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_18_1_SwinIR_large_aug.png,comet,comet,1.4930197e-05,5.495159e-06,0.99997115,2.996003e-06,5.427043e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_1_0_SwinIR_large_aug.png,comet,comet,6.5759996e-05,5.3004096e-06,0.99992144,1.3328959e-06,6.167111e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_2_2_SwinIR_large_aug_0.png,comet,comet,5.2347274e-05,1.9754476e-05,0.999897,7.974987e-06,2.2879847e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_4_image_17_1_SwinIR_large_aug.png,comet,comet,3.33336e-06,2.023442e-06,0.99999,2.4064466e-06,2.2523022e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_13_4_SwinIR_large_aug.png,comet,comet,1.2152167e-05,6.1902125e-07,0.9999826,1.7960348e-06,2.913918e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_5_image_19_3_SwinIR_large_aug.png,comet,comet,5.0982326e-06,2.228251e-06,0.99998116,6.021353e-06,5.497578e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_2_image_12_0_SwinIR_large_aug.png,comet,comet,1.7440945e-05,2.2054328e-06,0.99997413,4.188854e-06,1.987493e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/asteroid_page_2_image_18_aug2_SwinIR_large_aug.png,comet,comet,3.3058586e-05,5.7293822e-05,0.99986935,6.9433213e-06,3.332257e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_1_image_16_aug2_SwinIR_large_aug.png,comet,comet,0.024825282,0.004362491,0.9706627,6.5659784e-05,8.3795414e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_4_image_5_aug3_SwinIR_large_aug_1.png,comet,comet,8.6372675e-05,2.051532e-06,0.9998779,2.1229243e-05,1.2448551e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_4_image_17_3_SwinIR_large_aug.png,comet,comet,4.4646263e-06,1.2445846e-06,0.9999862,3.4737075e-06,4.5974093e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_10_0_SwinIR_large_aug.png,comet,comet,6.5265594e-06,2.5456595e-06,0.9999865,1.5748791e-06,2.8267782e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_6_image_6_2_SwinIR_large_aug_1.png,comet,comet,8.797201e-05,1.966466e-05,0.9998698,5.9662684e-06,1.6503272e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_14_4_SwinIR_large_aug_0.png,comet,comet,1.9604895e-05,1.3774304e-06,0.9999589,1.6382723e-05,3.7851476e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/comet/comet_page_3_image_14_aug3_SwinIR_large_aug_0.png,comet,comet,8.078699e-05,7.959752e-06,0.99986935,5.215411e-06,3.656412e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_3_0_SwinIR_large_aug.png,nebula,nebula,1.7239505e-06,1.4593527e-05,1.6276522e-06,0.99997044,1.1720236e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_9_1_SwinIR_large_aug.png,nebula,nebula,2.3854282e-06,2.228361e-06,1.9991876e-06,0.9999912,2.124681e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_17_1_SwinIR_large_aug.png,nebula,nebula,2.5958777e-06,5.0330514e-06,3.3785893e-06,0.9999845,4.5461334e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_19_3_SwinIR_large_aug.png,nebula,nebula,5.312326e-06,1.7807577e-06,2.8019795e-06,0.999987,3.0682002e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_16_3_SwinIR_large_aug.png,nebula,nebula,3.179856e-06,4.315104e-06,2.0881748e-06,0.99998724,3.1993666e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_17_3_SwinIR_large_aug.png,nebula,nebula,2.8833929e-06,3.4944471e-06,2.6728312e-06,0.9999889,2.1308608e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_14_4_SwinIR_large_aug.png,nebula,nebula,1.3692056e-05,1.9865183e-06,2.337162e-06,0.9999776,4.387017e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_2_2_SwinIR_large_aug.png,nebula,nebula,3.4954203e-06,5.77074e-06,2.89021e-06,0.99998426,3.6642662e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_2_1_SwinIR_large_aug.png,nebula,nebula,5.98844e-06,3.985971e-06,3.3210754e-06,0.9999838,2.9145303e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_17_aug2_SwinIR_large_aug.png,nebula,nebula,0.00084156805,9.1070026e-05,9.815047e-05,0.9989323,3.6870333e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_5_aug2_SwinIR_large_aug.png,nebula,nebula,6.965239e-06,3.396397e-06,2.6341284e-06,0.9999703,1.668904e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_11_1_SwinIR_large_aug.png,nebula,nebula,4.239362e-06,3.2704002e-06,1.6912383e-06,0.9999865,4.2672777e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_1_4_SwinIR_large_aug.png,nebula,nebula,2.7556137e-06,3.926393e-06,1.5290886e-06,0.9999865,5.193447e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/planet_page_23_image_5_4_SwinIR_large_aug.png,nebula,nebula,5.667133e-06,4.6989353e-06,3.466199e-06,0.9999833,2.9631942e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_17_aug3_SwinIR_large_aug.png,nebula,nebula,5.1535276e-06,6.118005e-06,3.3995984e-06,0.9999665,1.8873558e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_17_2_SwinIR_large_aug.png,nebula,nebula,3.9527395e-06,3.495974e-06,2.0439945e-06,0.9999881,2.498641e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_11_aug3_SwinIR_large_aug.png,nebula,nebula,2.3661519e-06,1.7499493e-05,2.3744815e-06,0.9999722,5.5677615e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_14_4_SwinIR_large_aug.png,nebula,nebula,3.8102107e-06,3.3695642e-06,2.2574707e-06,0.99998856,1.9861839e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_4_SwinIR_large_aug.png,nebula,nebula,1.3513999e-06,3.4481375e-06,3.317955e-06,0.9999889,2.9826574e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_19_1_SwinIR_large_aug.png,nebula,nebula,3.1584034e-06,3.77281e-06,1.7927539e-06,0.9999881,3.205832e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_18_aug3_SwinIR_large_aug.png,nebula,nebula,5.4957985e-05,0.00093025865,0.00022972854,0.9713859,0.027399242
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_9_2_SwinIR_large_aug.png,nebula,nebula,4.4787203e-06,3.7715433e-06,4.016901e-06,0.99998415,3.5252715e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_4_0_SwinIR_large_aug.png,nebula,nebula,2.893366e-06,4.411179e-06,2.69131e-06,0.9999856,4.41314e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_16_aug3_SwinIR_large_aug.png,nebula,nebula,4.5591337e-06,5.928147e-06,7.4489194e-06,0.9999782,3.81734e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_17_3_SwinIR_large_aug.png,nebula,nebula,1.5521675e-06,2.081275e-06,1.7201833e-06,0.9999877,7.0185915e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_12_3_SwinIR_large_aug.png,nebula,nebula,3.8131595e-06,2.9902128e-06,1.7389639e-06,0.99998784,3.6251552e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_12_1_SwinIR_large_aug.png,nebula,nebula,1.916864e-06,2.2203528e-06,1.7066706e-06,0.9999882,5.8604483e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_2_aug2_SwinIR_large_aug.png,nebula,nebula,3.9003635e-06,4.7820254e-06,1.3599054e-06,0.9999869,3.1205852e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_5_4_SwinIR_large_aug.png,nebula,nebula,5.573357e-06,2.5085562e-06,2.775842e-06,0.99998593,3.2096275e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_12_4_SwinIR_large_aug.png,nebula,nebula,3.3164733e-06,3.8749654e-06,2.4580518e-06,0.9999876,2.7147632e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_18_3_SwinIR_large_aug.png,nebula,nebula,2.7052363e-06,7.1891427e-06,2.2472414e-06,0.99998546,2.404433e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_15_4_SwinIR_large_aug.png,nebula,nebula,2.5771458e-06,3.5234882e-06,1.6965139e-06,0.9999893,2.8547195e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_12_3_SwinIR_large_aug.png,nebula,nebula,4.563148e-06,5.06164e-06,1.8486224e-06,0.9999857,2.8815587e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_9_4_SwinIR_large_aug.png,nebula,nebula,2.7528035e-06,2.418658e-06,2.642167e-06,0.9999895,2.6619248e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_19_1_SwinIR_large_aug.png,nebula,nebula,4.9627693e-06,3.851101e-06,1.4679437e-06,0.99998486,4.8953248e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_2_aug2_SwinIR_large_aug.png,nebula,nebula,5.632174e-06,4.133173e-06,2.3305818e-06,0.9999639,2.3946362e-05
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_3_image_17_3_SwinIR_large_aug.png,nebula,nebula,7.000074e-06,3.000596e-06,2.0111054e-06,0.99998474,3.225325e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_9_SwinIR_large_aug.png,nebula,nebula,4.914377e-06,1.8788699e-06,6.148064e-06,0.99998295,4.124766e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_11_2_SwinIR_large_aug.png,nebula,nebula,3.580717e-06,3.149793e-06,1.9581807e-06,0.99998856,2.8619465e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_10_1_SwinIR_large_aug.png,nebula,nebula,6.073524e-06,2.9137975e-06,2.7129397e-06,0.9999851,3.2795313e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/planet_page_23_image_5_1_SwinIR_large_aug.png,nebula,nebula,2.7984265e-06,5.085979e-06,1.8623647e-06,0.9999876,2.5850404e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_9_2_SwinIR_large_aug.png,nebula,nebula,6.4923565e-06,3.7772588e-06,2.1782434e-06,0.999985,2.586375e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_16_2_SwinIR_large_aug.png,nebula,nebula,7.2482485e-06,6.6910156e-06,2.0052057e-06,0.9999795,4.560005e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_9_3_SwinIR_large_aug.png,nebula,nebula,6.2473496e-06,1.9556883e-06,1.4164548e-06,0.99998605,4.39813e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_20_3_SwinIR_large_aug.png,nebula,nebula,4.5818306e-06,3.6551562e-06,1.7356024e-06,0.9999869,3.0936296e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_17_0_SwinIR_large_aug.png,nebula,nebula,3.0296717e-06,4.1402254e-06,2.0585533e-06,0.9999883,2.436951e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_9_SwinIR_large_aug.png,nebula,nebula,3.695127e-06,2.6898751e-06,1.6458675e-06,0.99998915,2.7959795e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_20_aug2_SwinIR_large_aug.png,nebula,nebula,0.009266106,0.14870909,0.0038997943,0.83265066,0.0054743537
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_10_aug3_SwinIR_large_aug.png,nebula,nebula,1.8309494e-06,1.5409709e-05,8.948897e-06,0.99996686,7.028445e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_9_aug2_SwinIR_large_aug.png,nebula,black hole,2.0706775e-06,0.9999832,1.0316078e-06,9.886265e-06,3.8183275e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_9_1_SwinIR_large_aug.png,nebula,nebula,3.9728593e-06,2.257755e-06,1.9773374e-06,0.9999858,6.0279767e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_3_0_SwinIR_large_aug.png,nebula,nebula,4.614654e-06,3.1072161e-06,3.3473152e-06,0.999984,4.960579e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_18_3_SwinIR_large_aug.png,nebula,nebula,4.2270067e-06,2.5303855e-06,1.4435959e-06,0.9999889,2.9242508e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_7_image_8_4_SwinIR_large_aug.png,nebula,nebula,9.020618e-06,2.2356337e-06,2.7643696e-06,0.99998236,3.6441725e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_14_1_SwinIR_large_aug.png,nebula,nebula,2.5920672e-06,4.179913e-06,2.4836143e-06,0.999987,3.7255459e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_7_0_SwinIR_large_aug.png,nebula,nebula,3.1065285e-06,6.537064e-06,2.0480156e-06,0.9999831,5.209894e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_7_aug2_SwinIR_large_aug.png,nebula,nebula,4.741655e-06,2.2893857e-06,1.1794205e-06,0.9999852,6.6487546e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_4_aug3_SwinIR_large_aug.png,nebula,nebula,2.6123282e-06,3.4443135e-06,3.495942e-06,0.99998176,8.677371e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/asteroid_page_5_image_11_2_SwinIR_large_aug.png,nebula,nebula,2.8492561e-06,3.4908383e-06,2.351633e-06,0.99998856,2.7587587e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_18_aug2_SwinIR_large_aug.png,nebula,nebula,2.1067005e-06,9.926237e-06,2.107647e-06,0.9999765,9.370649e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_1_3_SwinIR_large_aug.png,nebula,nebula,1.4727491e-05,1.7345822e-06,2.495077e-06,0.9999759,5.065357e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_2_1_SwinIR_large_aug.png,nebula,nebula,4.729862e-06,2.3472644e-06,1.2283472e-06,0.99998784,3.8115163e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_5_image_18_2_SwinIR_large_aug.png,nebula,nebula,2.9685748e-06,2.7575325e-06,2.4043325e-06,0.9999894,2.4559542e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_17_aug3_SwinIR_large_aug.png,nebula,nebula,2.7011274e-06,3.0686638e-06,2.6205303e-06,0.99998844,3.1341965e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_3_SwinIR_large_aug.png,nebula,nebula,2.2220145e-06,1.0620035e-05,3.6478812e-06,0.99997437,9.185468e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_1_image_16_1_SwinIR_large_aug.png,nebula,nebula,6.6837015e-06,3.7876673e-06,2.1558417e-06,0.99998343,3.9171578e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_16_SwinIR_large_aug.png,nebula,nebula,9.428123e-06,1.8673747e-06,2.761607e-06,0.999982,3.9355414e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_6_image_5_aug2_SwinIR_large_aug.png,nebula,nebula,4.5412485e-06,3.7188656e-06,1.8184987e-06,0.9999852,4.6880364e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_2_image_2_1_SwinIR_large_aug.png,nebula,nebula,3.732832e-06,3.8399153e-06,2.3505704e-06,0.9999877,2.3277385e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_8_image_15_aug2_SwinIR_large_aug.png,nebula,nebula,5.6632325e-06,4.835955e-06,4.5199695e-06,0.99997854,6.3917337e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/nebula/nebula_page_4_image_6_0_SwinIR_large_aug.png,nebula,nebula,7.862432e-06,3.207878e-06,3.2460814e-06,0.99998045,5.216269e-06
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_8_2_SwinIR_large_aug.png,constellation,constellation,2.9937676e-06,3.3942601e-06,4.000125e-06,3.9350944e-06,0.9999857
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_5_0_SwinIR_large_aug.png,constellation,constellation,4.3817404e-06,2.6690226e-05,2.2203834e-05,3.3187314e-06,0.9999434
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_10_3_SwinIR_large_aug.png,constellation,constellation,2.6912571e-06,4.0991868e-06,2.6791395e-06,5.5283926e-06,0.999985
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_8_2_SwinIR_large_aug.png,constellation,constellation,4.6842456e-06,2.8993752e-06,4.4570793e-06,3.8825133e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_19_0_SwinIR_large_aug.png,constellation,constellation,4.83009e-06,2.8288007e-06,2.705136e-06,4.866148e-06,0.9999846
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_9_4_SwinIR_large_aug.png,constellation,constellation,2.2601896e-06,4.0240316e-06,2.2660795e-06,8.517908e-06,0.99998295
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_8_0_SwinIR_large_aug.png,constellation,constellation,2.3751377e-06,3.4085706e-06,7.2337416e-06,2.5141303e-06,0.9999844
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/nebula_page_1_image_1_3_SwinIR_large_aug.png,constellation,constellation,2.9894686e-06,2.4204792e-06,2.592104e-06,5.107313e-06,0.9999869
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_6_2_SwinIR_large_aug.png,constellation,constellation,4.202541e-06,3.8969665e-06,7.804796e-06,2.685569e-06,0.9999815
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_10_4_SwinIR_large_aug.png,constellation,constellation,2.4823169e-06,3.030318e-06,5.2290243e-06,2.1429707e-06,0.9999871
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_13_2_SwinIR_large_aug.png,constellation,constellation,2.4611081e-06,2.8863437e-06,3.0444928e-06,3.9929328e-06,0.9999875
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_4_2_SwinIR_large_aug.png,constellation,constellation,3.5661465e-06,2.4610858e-06,6.4344354e-06,7.971744e-06,0.9999795
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_2_2_SwinIR_large_aug.png,constellation,constellation,3.082623e-06,2.9230866e-06,7.955448e-06,3.3036538e-06,0.9999827
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_17_4_SwinIR_large_aug.png,constellation,constellation,2.235275e-06,4.274056e-06,7.746803e-06,4.6708883e-06,0.99998105
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_5_2_SwinIR_large_aug.png,constellation,constellation,1.7847684e-06,6.3250736e-06,4.2957145e-06,3.4975806e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_15_1_SwinIR_large_aug.png,constellation,constellation,6.546018e-06,4.172099e-06,2.0551604e-05,2.6205867e-06,0.99996614
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_14_aug3_SwinIR_large_aug.png,constellation,constellation,2.1896717e-06,3.0062856e-06,3.6180472e-06,4.3608075e-06,0.9999869
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_14_1_SwinIR_large_aug.png,constellation,constellation,2.5589095e-06,3.098984e-06,4.7891144e-06,3.4242123e-06,0.9999862
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_20_1_SwinIR_large_aug.png,constellation,constellation,3.6995193e-06,2.4401827e-06,3.4707e-06,4.38141e-06,0.99998605
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_6_1_SwinIR_large_aug.png,constellation,constellation,3.972545e-06,2.6725988e-06,3.0798321e-06,3.3988379e-06,0.9999869
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_11_2_SwinIR_large_aug.png,constellation,constellation,3.74896e-06,2.4676906e-06,3.2257792e-06,4.178695e-06,0.9999864
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_7_3_SwinIR_large_aug.png,constellation,constellation,4.4238705e-06,2.9971739e-06,4.5445713e-06,3.9638758e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_10_1_SwinIR_large_aug.png,constellation,constellation,4.9647606e-06,4.3801497e-06,2.683283e-06,4.2949337e-06,0.99998355
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_12_2_SwinIR_large_aug.png,constellation,constellation,3.871843e-06,2.2858196e-06,5.978441e-06,2.5009301e-06,0.99998546
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_12_image_0_0_SwinIR_large_aug.png,constellation,constellation,2.9983453e-06,3.761829e-06,3.5960043e-06,3.8655944e-06,0.9999858
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_11_4_SwinIR_large_aug.png,constellation,constellation,4.4857434e-06,3.7024877e-06,4.135307e-06,3.4000313e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_16_4_SwinIR_large_aug.png,constellation,constellation,2.0980983e-06,3.6230217e-06,4.5480374e-06,5.081571e-06,0.9999846
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_20_4_SwinIR_large_aug.png,constellation,constellation,4.1920207e-06,4.0283526e-06,3.2913433e-06,4.2595543e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_14_0_SwinIR_large_aug.png,constellation,constellation,4.302513e-06,3.1922832e-06,8.880376e-06,4.2536844e-06,0.9999795
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_7_1_SwinIR_large_aug.png,constellation,constellation,7.2017124e-06,2.4133783e-06,2.6486923e-06,2.1643278e-05,0.99996614
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_12_4_SwinIR_large_aug.png,constellation,constellation,3.331416e-06,4.971124e-06,6.4981955e-06,4.345711e-06,0.9999808
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_11_3_SwinIR_large_aug.png,constellation,constellation,3.1459795e-06,4.4648827e-06,6.557653e-06,3.419856e-06,0.9999825
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_7_3_SwinIR_large_aug.png,constellation,constellation,3.2460084e-06,2.9657651e-06,3.0479298e-06,5.0828608e-06,0.9999856
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_1_1_SwinIR_large_aug.png,constellation,constellation,5.073588e-06,3.613275e-06,1.8927576e-06,1.10804785e-05,0.9999783
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_7_2_SwinIR_large_aug.png,constellation,constellation,3.384643e-06,4.137321e-06,8.240923e-06,3.535185e-06,0.9999808
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_1_2_SwinIR_large_aug.png,constellation,constellation,3.1666202e-06,2.1545452e-06,3.8258236e-06,5.282733e-06,0.9999856
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_20_3_SwinIR_large_aug.png,constellation,constellation,2.8156446e-06,6.0378543e-06,6.680536e-06,3.574998e-06,0.9999808
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_15_1_SwinIR_large_aug.png,constellation,constellation,4.0511904e-06,3.0570773e-06,7.745835e-06,5.9022323e-06,0.99997926
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_13_4_SwinIR_large_aug.png,constellation,constellation,3.4951954e-06,3.6892654e-06,3.8823528e-06,4.1755566e-06,0.99998474
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_3_0_SwinIR_large_aug.png,constellation,constellation,4.223622e-06,4.348345e-06,4.0573113e-06,3.3129277e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_1_0_SwinIR_large_aug.png,constellation,constellation,3.8496346e-06,6.3650796e-06,4.314199e-06,3.878936e-06,0.99998164
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/asteroid_page_2_image_9_0_SwinIR_large_aug.png,constellation,constellation,3.5999856e-06,3.960596e-06,3.1584304e-06,2.2208437e-06,0.9999871
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_4_3_SwinIR_large_aug.png,constellation,constellation,3.902531e-06,3.359976e-06,4.2123406e-06,2.9230755e-06,0.9999856
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_5_aug3_SwinIR_large_aug.png,constellation,constellation,1.7097267e-06,3.9635856e-06,3.0807469e-06,5.882325e-06,0.99998534
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_4_4_SwinIR_large_aug.png,constellation,constellation,2.3023729e-06,4.0082173e-06,2.4197634e-06,6.6165044e-06,0.99998474
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_12_1_SwinIR_large_aug.png,constellation,constellation,2.2641916e-06,2.7612305e-06,5.94253e-06,3.2411804e-06,0.9999858
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_16_0_SwinIR_large_aug.png,constellation,constellation,5.158113e-06,5.660633e-06,1.2623735e-05,2.0748323e-06,0.9999745
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_12_aug2_SwinIR_large_aug.png,constellation,constellation,1.7122262e-06,4.2474426e-06,3.4955272e-06,6.3648963e-06,0.99998426
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_16_3_SwinIR_large_aug.png,constellation,constellation,2.678229e-06,1.0145222e-05,5.0650438e-06,6.148051e-06,0.99997604
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_4_image_18_2_SwinIR_large_aug.png,constellation,constellation,2.6431853e-06,2.9481264e-06,3.4069924e-06,4.265626e-06,0.99998665
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_8_3_SwinIR_large_aug.png,constellation,constellation,3.4275265e-06,2.8550521e-06,3.1107816e-06,5.963966e-06,0.9999846
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_1_image_17_1_SwinIR_large_aug.png,constellation,constellation,1.956684e-06,6.512298e-06,5.602389e-06,8.769392e-06,0.99997723
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_11_1_SwinIR_large_aug.png,constellation,constellation,4.6986097e-06,4.94926e-06,6.9358744e-06,2.7331785e-06,0.9999808
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_14_aug2_SwinIR_large_aug.png,constellation,constellation,2.2361612e-06,8.580351e-06,9.023589e-06,3.1124969e-06,0.999977
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_9_image_15_1_SwinIR_large_aug.png,constellation,constellation,2.2625618e-06,3.0446906e-06,4.6003065e-06,2.4421072e-06,0.9999876
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_7_image_3_2_SwinIR_large_aug.png,constellation,constellation,2.5496959e-06,3.534899e-06,4.648793e-06,5.362723e-06,0.9999839
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_4_0_SwinIR_large_aug.png,constellation,constellation,2.0908637e-06,5.051663e-06,8.928488e-06,1.9121069e-06,0.999982
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_9_1_SwinIR_large_aug.png,constellation,constellation,1.9493111e-06,3.0926337e-06,4.005804e-06,4.6603145e-06,0.9999863
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_10_0_SwinIR_large_aug.png,constellation,constellation,5.873574e-06,6.2728727e-06,5.497585e-06,2.9567382e-06,0.9999795
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_18_3_SwinIR_large_aug.png,constellation,constellation,4.7934227e-06,4.2052666e-06,3.288802e-06,3.5585804e-06,0.99998415
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_5_image_20_1_SwinIR_large_aug.png,constellation,constellation,2.7389228e-06,2.374537e-06,2.7985343e-06,5.1915135e-06,0.999987
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_16_2_SwinIR_large_aug.png,constellation,constellation,3.8360636e-06,3.5719133e-06,3.2920696e-06,3.8744993e-06,0.99998546
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_6_image_13_0_SwinIR_large_aug.png,constellation,constellation,1.9742704e-06,3.9396245e-06,5.5275077e-06,3.4540944e-06,0.9999851
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_16_SwinIR_large_aug.png,constellation,constellation,2.327448e-06,5.8665696e-06,3.5983855e-06,9.893375e-06,0.9999783
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_2_image_11_SwinIR_large_aug.png,constellation,constellation,2.1838832e-06,3.9161087e-06,2.6188757e-06,9.757466e-06,0.9999815
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_8_image_14_3_SwinIR_large_aug.png,constellation,constellation,1.8066632e-06,6.823577e-06,5.087326e-06,2.784667e-06,0.99998343
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_9_4_SwinIR_large_aug.png,constellation,constellation,3.066238e-06,4.4834565e-06,3.4917693e-06,2.631421e-06,0.9999863
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_9_image_5_3_SwinIR_large_aug.png,constellation,constellation,3.181417e-06,5.5373202e-06,4.3056684e-06,3.8624034e-06,0.9999831
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_15_3_SwinIR_large_aug.png,constellation,constellation,1.7444892e-06,3.4622544e-06,4.0120626e-06,3.5038647e-06,0.99998724
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_10_image_15_3_SwinIR_large_aug.png,constellation,constellation,2.925849e-06,3.86173e-06,3.6568163e-06,4.315634e-06,0.9999851
+/kaggle/input/spacenet-balance-dataset/newSpacenet/test/constellation/constellation_page_3_image_4_3_SwinIR_large_aug.png,constellation,constellation,2.9083399e-06,3.7712273e-06,3.3264848e-06,3.8008889e-06,0.9999862

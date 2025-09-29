@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.9322033898305084,
+  "macro_f1": 0.9230059499074781,
+  "precision_macro": 0.9241510532271402,
+  "recall_macro": 0.9238125093297509,
+  "num_test": 413,
+  "classes": [
+    "asteroid",
+    "black hole",
+    "comet",
+    "nebula",
+    "constellation"
+  ]
+}
