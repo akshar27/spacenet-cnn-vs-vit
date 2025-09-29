@@ -1,14 +1,24 @@
 cff-version: 1.2.0
-title: "Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study"
+title: "Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study with Balanced vs Imbalanced Regimes"
 authors:
   - family-names: Gothi
     given-names: Akshar
 date-released: 2025-09-22
 version: "v1.0"
-url: "https://github.com/<you>/spacenet-cnn-vs-vit"
+license: MIT
+repository-code: "https://github.com/akshar27/spacenet-cnn-vs-vit"
+url: "https://github.com/akshar27/spacenet-cnn-vs-vit"
+keywords:
+  - Vision Transformer
+  - EfficientNet
+  - Class Imbalance
+  - SpaceNet
+  - Image Classification
 preferred-citation:
   type: article
-  title: "Convolutional Neural Nets vs Vision Transformers..."
+  title: "Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study with Balanced vs Imbalanced Regimes"
   authors:
     - family-names: Gothi
       given-names: Akshar
+  year: 2025
+  url: "https://github.com/akshar27/spacenet-cnn-vs-vit/blob/main/paper/Research_paper_Neural_Nets_vs_Vision_Transformer.pdf"
