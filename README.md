@@ -30,5 +30,14 @@ Small, text-first artifacts are included for each run:
 2) Artifacts appear under `/kaggle/working/outputs/<run>/`.  
 3) Manifests are emitted to `/kaggle/working/manifests/<split>/`.
 
+@misc{Gothi_2025_SpaceNet_CNN_ViT,
+  author       = {Akshar Gothi},
+  title        = {Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study with Balanced vs Imbalanced Regimes},
+  year         = {2025},
+  version      = {v1.0.1},
+  url          = {https://github.com/akshar27/spacenet-cnn-vs-vit/releases/download/v1.0.1/Research_paper_Neural_Nets_vs_Vision_Transformer.pdf},
+  note         = {GitHub release asset}
+}
+
 ## Citation
 See `CITATION.cff`. If you use this work, please cite the paper.
