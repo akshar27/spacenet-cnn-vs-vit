@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Convolutional Neural Nets vs Vision Transformers: A SpaceNet Case Study"
+authors:
+  - family-names: Gothi
+    given-names: Akshar
+date-released: 2025-09-22
+version: "v1.0"
+url: "https://github.com/<you>/spacenet-cnn-vs-vit"
+preferred-citation:
+  type: article
+  title: "Convolutional Neural Nets vs Vision Transformers..."
+  authors:
+    - family-names: Gothi
+      given-names: Akshar
